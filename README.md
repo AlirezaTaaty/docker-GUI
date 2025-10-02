@@ -1,4 +1,3 @@
-```markdown
 # Portainer Docker Setup
 
 A simple Docker Compose setup to run Portainer - a lightweight management UI for Docker environments.
